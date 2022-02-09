@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Kerala
+## Kerala is state in south India
+- Idukki
+- Eranakulam
+-  Kottayam
+
+*Idukki is the best district.*
+_the best place in Kerala is **Munnar**_
